@@ -24,3 +24,6 @@
 
 ## Project Documentation Report
 [![UDACITY-Introduction-to-Generative-AI-with-AWS-Project-Documentation-Report.jpg](https://i.postimg.cc/brDYXJwH/UDACITY-Introduction-to-Generative-AI-with-AWS-Project-Documentation-Report.jpg)](https://postimg.cc/N2tvmQT5)
+
+## Certification
+<img src="https://media.licdn.com/dms/image/D4D22AQFs4Qzi3Nv6zA/feedshare-shrink_800/0/1715783582985?e=1721865600&v=beta&t=Wviz2wV4k8P-0I91FTEZXBpc_wnE6aZih2_43NDSpI4">
